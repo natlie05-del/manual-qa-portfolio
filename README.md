@@ -22,7 +22,19 @@ This repository contains end-to-end manual testing projects for mobile applicati
 - Test Execution Summary
 
 ---
+## 📊 Portfolio Summary
 
+|       Metric       | Count |
+|------------------- |------ |
+| QA Projects        | 2     |
+| Test Scenarios     | 102   |
+| Test Cases         | 102   |
+| UI Findings        | 11    |
+| Usability Findings | 9     |
+| Exploratory Tests  | 8     |
+| Bug Reports        | 1     |
+
+---
 ## 🛠 Skills Demonstrated
 
 - Manual Functional Testing
@@ -38,40 +50,13 @@ This repository contains end-to-end manual testing projects for mobile applicati
 - Edge Case Identification
 
 ---
-
 ## 📂 Projects
 
-### Instagram Mobile Application
-
-A comprehensive manual testing project covering core Instagram functionalities.
-
-**Project Highlights**
-- 46 Test Scenarios
-- 46 Detailed Test Cases
-- UI Findings
-- Usability Findings
-- Exploratory Testing
-- Bug Report
-- Test Execution Summary
-
-📄 **Project Folder:** `Instagram-Manual-QA`
-
----
-
-### Swiggy Mobile Application
-
-A complete manual QA testing project focused on food delivery workflows and user experience.
-
-**Project Highlights**
-- 56 Test Scenarios
-- 56 Detailed Test Cases
-- UI Findings
-- Usability Findings
-- Exploratory Testing
-- Test Execution Summary
-
-📄 **Project Folder:** `Swiggy-Manual-QA`
-
+|             Project              | Platform |     Status   |          Documentation                |
+|--------------------------------- |----------|------------- |-------------------------------------  |
+|  **Instagram Manual QA Testing** | Android  | ✅ Completed | [View Project](./Instagram-Manual-QA) | 
+|  **Swiggy Manual QA Testing**    | Android  | ✅ Completed | [View Project](./Swiggy-Manual-QA)    |
+|  **API Testing (Coming Soon)**   | REST API | 🚧 Planned   |                —                      |
 ---
 
 ## Testing Scope
