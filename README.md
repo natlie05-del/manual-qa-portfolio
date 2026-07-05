@@ -114,7 +114,7 @@ This repository will continue to grow with additional QA projects, including:
 
 ## 📬 Connect With Me
 
-**LinkedIn:** linkedin.com/in/natlie-p-857516286 
+**LinkedIn:** [Natlie Pinto] (https://www.linkedin.com/in/linkedin.com/in/natlie-p-857516286) 
 
 ---
 
